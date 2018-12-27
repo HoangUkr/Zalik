@@ -1,0 +1,6 @@
+C:\Users\famsu\Desktop\Learning materials\Семестр 5\Веб орієнтоване програмування\Test\Pham_Variant_15\Pham_Variant_15\bin\Debug\Pham_Variant_15.exe.config
+C:\Users\famsu\Desktop\Learning materials\Семестр 5\Веб орієнтоване програмування\Test\Pham_Variant_15\Pham_Variant_15\bin\Debug\Pham_Variant_15.exe
+C:\Users\famsu\Desktop\Learning materials\Семестр 5\Веб орієнтоване програмування\Test\Pham_Variant_15\Pham_Variant_15\bin\Debug\Pham_Variant_15.pdb
+C:\Users\famsu\Desktop\Learning materials\Семестр 5\Веб орієнтоване програмування\Test\Pham_Variant_15\Pham_Variant_15\obj\Debug\Pham_Variant_15.csprojResolveAssemblyReference.cache
+C:\Users\famsu\Desktop\Learning materials\Семестр 5\Веб орієнтоване програмування\Test\Pham_Variant_15\Pham_Variant_15\obj\Debug\Pham_Variant_15.exe
+C:\Users\famsu\Desktop\Learning materials\Семестр 5\Веб орієнтоване програмування\Test\Pham_Variant_15\Pham_Variant_15\obj\Debug\Pham_Variant_15.pdb
